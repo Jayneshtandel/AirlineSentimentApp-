@@ -1,4 +1,4 @@
-mport streamlit as st
+import streamlit as st
 from transformers import pipeline
 
 # Load the trained sentiment analysis model and tokenizer
